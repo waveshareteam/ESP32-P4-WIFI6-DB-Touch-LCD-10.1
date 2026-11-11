@@ -1,0 +1,5 @@
+## IDF Component Manager Manifest File
+dependencies:
+  idf:
+    version: '>=5.5'
+  espressif/esp_board_manager: ^0.7.3~1
